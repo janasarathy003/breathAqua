@@ -1,0 +1,22 @@
+.btn-addNew{
+    color: #fff!important;
+    background-color: #17C3B2;
+    border-color: #17C3B2;
+}.btn-saveNew{
+    color: #fff!important;
+    background-color: #17C3B2;
+    border-color: #17C3B2;
+}
+.btn-viewNew{
+    color: #fff!important;
+    background-color: #227C9D;
+    border-color: #227C9D;
+}.btn-editNew{
+    color: #fff!important;
+    background-color: #FFB133;
+    border-color: #FFB133;
+}.btn-deleteNew{
+    color: #fff!important;
+    background-color: #ED6A5A;
+    border-color: #ED6A5A;
+}
